@@ -1,0 +1,60 @@
+*{ 
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+
+}
+
+button {
+    background-color: rgb(40, 160, 246);
+    border: none;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+transition: all .3s ease;
+padding: 15px 40px;
+margin: 10px 0;
+}
+
+button a {
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+button:hover {
+     background-color: rgb(22, 125, 198);
+}
+div {
+    height: 100vh;
+    width: 100%;
+font-size: 30px;
+    color: white;
+
+}
+
+#one  {
+    background-color: rgb(145, 62, 175);
+    
+}
+
+#two {
+    background-color: rgb(25, 12, 115);
+}
+
+#three {
+    background-color: rgb(9, 152, 97);
+}
+
+#four {
+    background-color: rgb(187, 38, 73);
+}
+
+#five {
+   color: rgb(0, 0, 0);
+}
